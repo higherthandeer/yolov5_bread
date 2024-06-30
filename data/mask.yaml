@@ -1,0 +1,5 @@
+train: /kaggle/input/wearingmaskc19/MaskWearingfull/Mask Wearing/train
+val: /kaggle/input/wearingmaskc19/MaskWearingfull/Mask Wearing/valid
+
+nc: 2
+names: ['mask', 'no-mask']

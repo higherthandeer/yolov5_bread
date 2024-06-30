@@ -1,0 +1,8 @@
+path: bread/dataset/bread_simple
+train: images/train
+val: images/val
+test: images/test
+
+
+nc: 4
+names: ['---', 'bo', 'piz', 'sora']

@@ -1,0 +1,6 @@
+
+train: datasets/paris_bread/train/images
+val: datasets/paris_bread/valid/images
+
+nc: 4
+names: ['bagle', 'baguette', 'croissant', 'croquette']

@@ -1,0 +1,13 @@
+train: datasets/final_bread/train/images
+val: datasets/final_bread/valid/images
+test: datasets/final_bread/test/images
+
+nc: 5
+names: ['Baguette', 'Croissant', 'Donuts', 'LayerCake', 'Sandwich']
+
+roboflow:
+  workspace: higherthandeer
+  project: bread-dsgs5
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/higherthandeer/bread-dsgs5/dataset/2
